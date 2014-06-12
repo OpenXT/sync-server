@@ -1,0 +1,14 @@
+*~
+*pyc
+*_flymake.py
+*/*_flymake.py
+dissite-default
+ensite-sync
+
+build
+dist
+sync.egg-info
+sync-*.egg
+
+
+
